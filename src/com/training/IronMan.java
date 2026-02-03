@@ -2,7 +2,7 @@ package com.training;
 
 public class IronMan {
 
-	public static void main(String[] args) {
+	public static void Hollywood() {
 		
 		System.out.println("I am IronMan....");
 
